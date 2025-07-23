@@ -1,13 +1,6 @@
-# Configurações de Editores de Código
 .idea/
 .vscode/
-
-# Arquivos gerados pelo Python
 __pycache__/
-
-# Ambientes Virtuais
 venv/
 *.venv
-
-# Arquivos de Banco de Dados (é uma boa prática não enviar o .db, apenas o código que o gera)
 *.db
