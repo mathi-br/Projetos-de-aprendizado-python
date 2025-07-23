@@ -1,0 +1,384 @@
+, Município , Confirmados , Novos Confirmados , Incidência /100 mil hab , Óbitos , Novos Óbitos , Mortalidade /100 mil hab  
+, Porto Alegre , 2123 , 257 , 143.1 , 69 , 2 , 4.7  
+, Lajeado , 1585 , 3 , 1886.6 , 21 , 0 , 25.0  
+, Passo Fundo , 1557 , 44 , 766.0 , 41 , 1 , 20.2  
+, Bento Gonçalves , 945 , 33 , 784.5 , 28 , 2 , 23.2  
+, Caxias do Sul , 765 , 70 , 149.7 , 12 , 0 , 2.3  
+, São Leopoldo , 585 , 33 , 247.0 , 9 , 0 , 3.8  
+, Garibaldi , 544 , 3 , 1551.2 , 5 , 0 , 14.3  
+, Marau , 536 , 35 , 1213.7 , 9 , 0 , 20.4  
+, Santa Maria , 514 , 10 , 182.2 , 15 , 1 , 5.3  
+, Novo Hamburgo , 514 , 59 , 208.3 , 12 , 0 , 4.9  
+, Erechim , 471 , 16 , 444.9 , 3 , 0 , 2.8  
+, Nova Araçá , 436 , 2 , 9161.6 , 1 , 0 , 21.0  
+, Farroupilha , 413 , 5 , 571.0 , 5 , 0 , 6.9  
+, Canoas , 375 , 37 , 108.2 , 12 , 2 , 3.5  
+, Alvorada , 274 , 16 , 130.3 , 8 , 2 , 3.8  
+, Gravataí , 272 , 29 , 96.6 , 9 , 1 , 3.2  
+, Sapucaia do Sul , 265 , 12 , 187.8 , 10 , 0 , 7.1  
+, Cachoeirinha , 261 , 5 , 200.3 , 3 , 1 , 2.3  
+, Carlos Barbosa , 256 , 6 , 858.1 , 6 , 1 , 20.1  
+, Venâncio Aires , 250 , 5 , 349.4 , 7 , 0 , 9.8  
+, Teutônia , 242 , 10 , 728.2 , 0 , 0 , 0  
+, Pelotas , 215 , 11 , 62.8 , 2 , 0 , 0.6  
+, Estrela , 204 , 4 , 598.0 , 2 , 0 , 5.9  
+, São Gabriel , 190 , 38 , 305.9 , 8 , 0 , 12.9  
+, Três Passos , 188 , 0 , 786.4 , 2 , 0 , 8.4  
+, Serafina Corrêa , 169 , 2 , 965.6 , 1 , 0 , 5.7  
+, Rio Grande , 160 , 15 , 75.8 , 2 , 0 , 0.9  
+, Campo Bom , 153 , 25 , 229.3 , 5 , 0 , 7.5  
+, Palmeira das Missões , 151 , 15 , 453.4 , 4 , 0 , 12.0  
+, Santo Ângelo , 151 , 3 , 194.6 , 12 , 3 , 15.5  
+, Osório , 144 , 7 , 313.1 , 2 , 0 , 4.3  
+, Taquari , 143 , 1 , 532.4 , 2 , 0 , 7.4  
+, Esteio , 142 , 2 , 170.7 , 6 , 0 , 7.2  
+, Tapejara , 139 , 5 , 576.5 , 0 , 0 , 0  
+, Arroio do Meio , 139 , 0 , 668.1 , 0 , 0 , 0  
+, Santa Cruz do Sul , 130 , 0 , 99.7 , 1 , 0 , 0.8  
+, Viamão , 125 , 4 , 49.0 , 13 , 1 , 5.1  
+, Montenegro , 122 , 4 , 186.9 , 1 , 0 , 1.5  
+, Vacaria , 121 , 7 , 182.7 , 6 , 0 , 9.1  
+, Encantado , 121 , 3 , 532.9 , 4 , 0 , 17.6  
+, Caçapava do Sul , 116 , 3 , 345.0 , 2 , 0 , 5.9  
+, Nova Prata , 115 , 13 , 421.9 , 1 , 0 , 3.7  
+, Ijuí , 112 , 1 , 134.2 , 1 , 0 , 1.2  
+, Cruz Alta , 109 , 11 , 180.8 , 3 , 0 , 5.0  
+, Santana do Livramento , 106 , 4 , 137.6 , 2 , 0 , 2.6  
+, Cruzeiro do Sul , 101 , 0 , 817.9 , 3 , 0 , 24.3  
+, Bagé , 100 , 2 , 82.5 , 0 , 0 , 0  
+, Guaporé , 100 , 7 , 388.7 , 0 , 0 , 0  
+, Guaíba , 97 , 7 , 98.8 , 7 , 2 , 7.1  
+, Cachoeira do Sul , 93 , 8 , 113.1 , 0 , 0 , 0  
+, Frederico Westphalen , 81 , 8 , 258.7 , 2 , 0 , 6.4  
+, Formigueiro , 79 , 0 , 1185.5 , 0 , 0 , 0  
+, Nonoai , 77 , 4 , 658.4 , 2 , 0 , 17.1  
+, Carazinho , 76 , 1 , 122.4 , 0 , 0 , 0  
+, Santiago , 75 , 12 , 151.7 , 0 , 0 , 0  
+, Bom Retiro do Sul , 75 , 0 , 608.4 , 1 , 0 , 8.1  
+, Veranópolis , 72 , 5 , 274.4 , 0 , 0 , 0  
+, Santa Rosa , 69 , 4 , 94.2 , 2 , 0 , 2.7  
+, Uruguaiana , 69 , 0 , 54.3 , 0 , 0 , 0  
+, Flores da Cunha , 66 , 6 , 214.7 , 1 , 0 , 3.3  
+, Trindade do Sul , 63 , 0 , 1085.8 , 2 , 0 , 34.5  
+, Torres , 62 , 6 , 160.1 , 1 , 0 , 2.6  
+, Bom Princípio , 59 , 0 , 419.8 , 0 , 0 , 0  
+, Sarandi , 57 , 0 , 232.8 , 1 , 0 , 4.1  
+, Barão de Cotegipe , 53 , 3 , 800.2 , 1 , 0 , 15.1  
+, São Sebastião do Caí , 53 , 6 , 206.3 , 1 , 0 , 3.9  
+, Triunfo , 52 , 0 , 176.0 , 1 , 0 , 3.4  
+, Capão da Canoa , 51 , 8 , 96.1 , 2 , 0 , 3.8  
+, Tramandaí , 50 , 6 , 96.7 , 3 , 0 , 5.8  
+, Poço das Antas , 49 , 0 , 2335.6 , 0 , 0 , 0  
+, Nova Bassano , 49 , 6 , 494.2 , 0 , 0 , 0  
+, Ibirubá , 48 , 2 , 235.9 , 2 , 0 , 9.8  
+, Bom Jesus , 48 , 1 , 422.9 , 0 , 0 , 0  
+, Sapiranga , 47 , 1 , 57.5 , 1 , 0 , 1.2  
+, Portão , 47 , 5 , 126.8 , 1 , 0 , 2.7  
+, Estância Velha , 46 , 0 , 92.0 , 0 , 0 , 0  
+, Paverama , 46 , 0 , 542.0 , 3 , 0 , 35.3  
+, São Sepé , 46 , 0 , 194.7 , 1 , 0 , 4.2  
+, Eldorado do Sul , 44 , 11 , 106.6 , 1 , 0 , 2.4  
+, São Marcos , 42 , 4 , 194.8 , 0 , 0 , 0  
+, Não-Me-Toque , 41 , 0 , 232.6 , 1 , 0 , 5.7  
+, Soledade , 41 , 2 , 132.2 , 1 , 0 , 3.2  
+, Westfalia , 41 , 0 , 1360.3 , 0 , 0 , 0  
+, Três Cachoeiras , 41 , 1 , 370.9 , 1 , 0 , 9.0  
+, Planalto , 39 , 1 , 386.8 , 1 , 0 , 9.9  
+, Ivoti , 38 , 4 , 156.4 , 1 , 0 , 4.1  
+, Camaquã , 38 , 2 , 57.3 , 3 , 0 , 4.5  
+, Lagoa Vermelha , 37 , 2 , 133.1 , 1 , 0 , 3.6  
+, Saldanha Marinho , 37 , 2 , 1396.2 , 4 , 0 , 150.9  
+, São Borja , 35 , 0 , 58.1 , 2 , 0 , 3.3  
+, Santo Antônio da Patrulha , 34 , 4 , 79.3 , 1 , 0 , 2.3  
+, Alegrete , 34 , 1 , 46.2 , 5 , 0 , 6.8  
+, Três Palmeiras , 34 , 1 , 796.1 , 0 , 0 , 0  
+, Charqueadas , 33 , 0 , 80.9 , 1 , 0 , 2.5  
+, Sananduva , 32 , 0 , 196.7 , 0 , 0 , 0  
+, São Jerônimo , 32 , 2 , 132.0 , 1 , 1 , 4.1  
+, Canguçu , 31 , 0 , 55.3 , 2 , 0 , 3.6  
+, Ronda Alta , 31 , 3 , 292.4 , 0 , 0 , 0  
+, Sertão , 31 , 1 , 572.5 , 1 , 0 , 18.5  
+, Porto Xavier , 30 , 0 , 292.8 , 0 , 0 , 0  
+, Constantina , 30 , 0 , 302.7 , 1 , 0 , 10.1  
+, Cidreira , 29 , 0 , 178.4 , 1 , 0 , 6.2  
+, Roca Sales , 29 , 1 , 254.5 , 2 , 0 , 17.6  
+, Ibirapuitã , 27 , 2 , 672.8 , 2 , 0 , 49.8  
+, Gaurama , 27 , 0 , 487.9 , 0 , 0 , 0  
+, General Câmara , 27 , 0 , 322.0 , 1 , 0 , 11.9  
+, Vila Maria , 27 , 1 , 619.6 , 1 , 0 , 22.9  
+, Coxilha , 27 , 0 , 979.7 , 1 , 0 , 36.3  
+, Gramado dos Loureiros , 27 , 2 , 1296.8 , 0 , 0 , 0  
+, Panambi , 26 , 1 , 59.5 , 0 , 0 , 0  
+, Paraí , 25 , 7 , 326.5 , 0 , 0 , 0  
+, Terra de Areia , 25 , 5 , 223.1 , 0 , 0 , 0  
+, Encruzilhada do Sul , 25 , 2 , 96.6 , 1 , 0 , 3.9  
+, Condor , 25 , 1 , 370.2 , 1 , 0 , 14.8  
+, Faxinalzinho , 25 , 0 , 1079.9 , 0 , 0 , 0  
+, Salto do Jacuí , 25 , 0 , 200.8 , 0 , 0 , 0  
+, Dois Irmãos , 24 , 1 , 73.5 , 1 , 0 , 3.1  
+, São Valentim , 24 , 1 , 727.5 , 1 , 0 , 30.3  
+, Nova Hartz , 24 , 0 , 111.0 , 0 , 0 , 0  
+, Progresso , 23 , 0 , 368.4 , 0 , 0 , 0  
+, Santa Clara do Sul , 23 , 0 , 348.3 , 0 , 0 , 0  
+, Imbé , 23 , 1 , 100.9 , 0 , 0 , 0  
+, Muçum , 23 , 0 , 464.3 , 0 , 0 , 0  
+, Getúlio Vargas , 23 , 1 , 141.9 , 1 , 0 , 6.2  
+, Lavras do Sul , 23 , 0 , 307.5 , 0 , 0 , 0  
+, Presidente Lucena , 23 , 7 , 792.8 , 0 , 0 , 0  
+, Tenente Portela , 22 , 0 , 163.1 , 0 , 0 , 0  
+, Dom Pedrito , 22 , 0 , 57.2 , 1 , 0 , 2.6  
+, Restinga Seca , 22 , 0 , 139.3 , 1 , 0 , 6.3  
+, Parobé , 22 , 0 , 37.8 , 1 , 0 , 1.7  
+, Canela , 22 , 0 , 48.9 , 1 , 0 , 2.2  
+, Entre Rios do Sul , 21 , 0 , 752.1 , 0 , 0 , 0  
+, Estação , 20 , 0 , 335.7 , 0 , 0 , 0  
+, Benjamin Constant do Sul , 20 , 0 , 1003.0 , 0 , 0 , 0  
+, Chiapetta , 20 , 2 , 532.5 , 0 , 0 , 0  
+, Jaguari , 19 , 1 , 175.1 , 4 , 0 , 36.9  
+, Esperança do Sul , 19 , 2 , 649.4 , 1 , 0 , 34.2  
+, Camargo , 19 , 0 , 695.2 , 0 , 0 , 0  
+, Entre-Ijuís , 19 , 2 , 224.2 , 0 , 0 , 0  
+, Nova Alvorada , 19 , 5 , 524.1 , 1 , 0 , 27.6  
+, Butiá , 19 , 12 , 90.7 , 1 , 1 , 4.8  
+, Mariano Moro , 18 , 0 , 886.3 , 0 , 0 , 0  
+, Itacurubi , 18 , 0 , 519.5 , 2 , 0 , 57.7  
+, Espumoso , 17 , 0 , 109.1 , 1 , 0 , 6.4  
+, Horizontina , 17 , 6 , 88.0 , 1 , 0 , 5.2  
+, Maquiné , 17 , 0 , 253.2 , 0 , 0 , 0  
+, Santa Vitória do Palmar , 17 , 1 , 57.3 , 0 , 0 , 0  
+, Taquara , 16 , 5 , 27.8 , 0 , 0 , 0  
+, Rolante , 16 , 0 , 74.9 , 0 , 0 , 0  
+, Júlio de Castilhos , 15 , 0 , 77.7 , 0 , 0 , 0  
+, Feliz , 15 , 0 , 110.7 , 0 , 0 , 0  
+, Floriano Peixoto , 15 , 0 , 849.4 , 0 , 0 , 0  
+, Quaraí , 15 , 0 , 66.1 , 2 , 0 , 8.8  
+, Gramado , 15 , 1 , 41.4 , 0 , 0 , 0  
+, Colinas , 15 , 0 , 615.3 , 0 , 0 , 0  
+, Capitão , 15 , 0 , 544.1 , 0 , 0 , 0  
+, São Lourenço do Sul , 14 , 0 , 32.1 , 0 , 0 , 0  
+, Tunas , 14 , 0 , 306.4 , 2 , 0 , 43.8  
+, Santa Cecília do Sul , 14 , 0 , 854.2 , 0 , 0 , 0  
+, São Domingos do Sul , 13 , 0 , 422.9 , 0 , 0 , 0  
+, São Jorge , 13 , 0 , 460.3 , 0 , 0 , 0  
+, Alpestre , 13 , 0 , 207.7 , 0 , 0 , 0  
+, Arroio dos Ratos , 13 , 0 , 91.9 , 1 , 0 , 7.1  
+, Minas do Leão , 13 , 0 , 161.0 , 0 , 0 , 0  
+, Boa Vista do Sul , 13 , 0 , 467.1 , 1 , 0 , 35.9  
+, Marcelino Ramos , 13 , 0 , 295.3 , 0 , 0 , 0  
+, Nova Santa Rita , 13 , 1 , 44.4 , 0 , 0 , 0  
+, Santo Antônio do Palma , 13 , 0 , 610.9 , 0 , 0 , 0  
+, São Francisco de Paula , 13 , 0 , 59.9 , 0 , 0 , 0  
+, Tiradentes do Sul , 13 , 3 , 227.9 , 2 , 0 , 35.1  
+, Caraá , 13 , 4 , 157.2 , 0 , 0 , 0  
+, Arroio do Sal , 12 , 1 , 119.2 , 1 , 0 , 9.9  
+, Harmonia , 12 , 0 , 246.6 , 0 , 0 , 0  
+, Tabaí , 12 , 0 , 254.3 , 0 , 0 , 0  
+, Santa Tereza , 12 , 0 , 694.0 , 1 , 0 , 57.8  
+, Brochier , 12 , 0 , 236.5 , 0 , 0 , 0  
+, Pontão , 12 , 0 , 307.4 , 1 , 0 , 25.6  
+, Vale Verde , 12 , 0 , 343.2 , 0 , 0 , 0  
+, Vila Flores , 12 , 1 , 354.5 , 0 , 0 , 0  
+, São Luiz Gonzaga , 12 , 1 , 35.9 , 0 , 0 , 0  
+, Vila Nova do Sul , 12 , 0 , 280.4 , 0 , 0 , 0  
+, Barra do Ribeiro , 12 , 0 , 88.9 , 0 , 0 , 0  
+, Erval Grande , 12 , 0 , 247.0 , 0 , 0 , 0  
+, Água Santa , 12 , 1 , 320.2 , 0 , 0 , 0  
+, São José do Herval , 12 , 2 , 608.8 , 0 , 0 , 0  
+, Casca , 12 , 0 , 132.9 , 0 , 0 , 0  
+, Fontoura Xavier , 11 , 0 , 106.8 , 0 , 0 , 0  
+, Gentil , 11 , 0 , 673.2 , 0 , 0 , 0  
+, Tupanciretã , 11 , 0 , 45.9 , 1 , 0 , 4.2  
+, São Pedro da Serra , 11 , 0 , 289.4 , 0 , 0 , 0  
+, Santa Maria do Herval , 11 , 2 , 173.7 , 0 , 0 , 0  
+, Cacique Doble , 10 , 4 , 197.4 , 0 , 0 , 0  
+, Tupandi , 10 , 1 , 206.0 , 0 , 0 , 0  
+, Rio Pardo , 10 , 2 , 26.1 , 0 , 0 , 0  
+, Imigrante , 10 , 0 , 320.5 , 0 , 0 , 0  
+, Antônio Prado , 10 , 0 , 76.6 , 0 , 0 , 0  
+, Mato Leitão , 10 , 1 , 221.5 , 0 , 0 , 0  
+, Seberi , 10 , 2 , 93.0 , 1 , 0 , 9.3  
+, Balneário Pinhal , 10 , 1 , 71.1 , 0 , 0 , 0  
+, São Martinho , 10 , 0 , 184.3 , 0 , 0 , 0  
+, Giruá , 10 , 0 , 62.5 , 2 , 0 , 12.5  
+, Ponte Preta , 10 , 0 , 646.4 , 0 , 0 , 0  
+, Anta Gorda , 9 , 1 , 150.5 , 0 , 0 , 0  
+, Caseiros , 9 , 0 , 281.1 , 0 , 0 , 0  
+, Campinas do Sul , 9 , 0 , 165.0 , 0 , 0 , 0  
+, Candelária , 9 , 0 , 28.7 , 0 , 0 , 0  
+, Nova Bréscia , 9 , 0 , 270.3 , 0 , 0 , 0  
+, Xangri-lá , 9 , 2 , 54.9 , 1 , 1 , 6.1  
+, Ametista do Sul , 9 , 0 , 121.5 , 0 , 0 , 0  
+, Ibiaçá , 9 , 1 , 191.1 , 0 , 0 , 0  
+, Igrejinha , 9 , 0 , 24.4 , 0 , 0 , 0  
+, Itatiba do Sul , 9 , 0 , 270.8 , 0 , 0 , 0  
+, Morro Reuter , 9 , 0 , 140.5 , 0 , 0 , 0  
+, Marques de Souza , 8 , 0 , 199.6 , 0 , 0 , 0  
+, Fazenda Vilanova , 8 , 0 , 176.5 , 0 , 0 , 0  
+, Maratá , 8 , 1 , 297.3 , 0 , 0 , 0  
+, Campestre da Serra , 8 , 2 , 236.1 , 0 , 0 , 0  
+, Monte Belo do Sul , 8 , 0 , 314.0 , 1 , 0 , 39.2  
+, São José do Norte , 8 , 3 , 29.0 , 0 , 0 , 0  
+, David Canabarro , 8 , 1 , 168.8 , 0 , 0 , 0  
+, Nova Petrópolis , 7 , 0 , 32.8 , 1 , 0 , 4.7  
+, Piratini , 7 , 0 , 33.9 , 0 , 0 , 0  
+, Barão , 7 , 1 , 113.4 , 0 , 0 , 0  
+, Humaitá , 7 , 0 , 147.0 , 0 , 0 , 0  
+, Montauri , 7 , 0 , 481.8 , 0 , 0 , 0  
+, Itaara , 7 , 0 , 127.3 , 1 , 0 , 18.2  
+, Cruzaltense , 7 , 0 , 381.9 , 0 , 0 , 0  
+, Vespasiano Correa , 7 , 0 , 385.7 , 0 , 0 , 0  
+, Araricá , 7 , 1 , 122.9 , 1 , 1 , 17.6  
+, Aratiba , 7 , 0 , 112.3 , 0 , 0 , 0  
+, Tapera , 7 , 0 , 66.1 , 0 , 0 , 0  
+, Cotiporã , 7 , 0 , 181.7 , 0 , 0 , 0  
+, Iraí , 7 , 0 , 96.7 , 0 , 0 , 0  
+, Chapada , 6 , 0 , 64.7 , 0 , 0 , 0  
+, Crissiumal , 6 , 0 , 44.6 , 0 , 0 , 0  
+, Arvorezinha , 6 , 0 , 57.6 , 0 , 0 , 0  
+, Machadinho , 6 , 0 , 110.2 , 0 , 0 , 0  
+, Doutor Maurício Cardoso , 6 , 0 , 131.9 , 2 , 0 , 44.0  
+, Rio dos Índios , 6 , 0 , 218.0 , 0 , 0 , 0  
+, Itaqui , 6 , 0 , 15.9 , 0 , 0 , 0  
+, São José do Hortêncio , 6 , 1 , 124.9 , 0 , 0 , 0  
+, Arroio Grande , 6 , 0 , 32.8 , 0 , 0 , 0  
+, Catuípe , 6 , 0 , 68.4 , 0 , 0 , 0  
+, Chuvisca , 6 , 0 , 110.3 , 0 , 0 , 0  
+, São Vendelino , 5 , 0 , 222.9 , 0 , 0 , 0  
+, Morrinhos do Sul , 5 , 0 , 169.5 , 0 , 0 , 0  
+, Glorinha , 5 , 0 , 61.7 , 0 , 0 , 0  
+, Doutor Ricardo , 5 , 2 , 252.1 , 0 , 0 , 0  
+, Ciríaco , 5 , 2 , 105.3 , 0 , 0 , 0  
+, Coqueiros do Sul , 5 , 0 , 216.8 , 1 , 0 , 43.4  
+, Erebango , 5 , 0 , 167.2 , 0 , 0 , 0  
+, Vila Lângaro , 5 , 1 , 239.1 , 0 , 0 , 0  
+, Muliterno , 5 , 0 , 264.1 , 0 , 0 , 0  
+, Redentora , 5 , 0 , 43.3 , 0 , 0 , 0  
+, Três Arroios , 5 , 1 , 187.4 , 0 , 0 , 0  
+, Jacutinga , 5 , 0 , 140.4 , 0 , 0 , 0  
+, Bom Progresso , 5 , 0 , 257.5 , 0 , 0 , 0  
+, Viadutos , 5 , 0 , 105.1 , 1 , 0 , 21.0  
+, Itati , 5 , 0 , 206.7 , 0 , 0 , 0  
+, Protásio Alves , 5 , 4 , 256.8 , 0 , 0 , 0  
+, Três de Maio , 5 , 0 , 20.9 , 0 , 0 , 0  
+, São Martinho da Serra , 5 , 0 , 154.6 , 0 , 0 , 0  
+, Quevedos , 5 , 2 , 179.3 , 0 , 0 , 0  
+, Capão do Leão , 4 , 0 , 15.8 , 0 , 0 , 0  
+, Três Forquilhas , 4 , 0 , 148.3 , 0 , 0 , 0  
+, Tio Hugo , 4 , 0 , 132.0 , 1 , 0 , 33.0  
+, Sério , 4 , 0 , 203.9 , 0 , 0 , 0  
+, Victor Graeff , 4 , 0 , 138.8 , 0 , 0 , 0  
+, Ernestina , 4 , 0 , 126.3 , 0 , 0 , 0  
+, Coronel Bicaco , 4 , 0 , 54.6 , 0 , 0 , 0  
+, Canudos do Vale , 4 , 0 , 233.1 , 0 , 0 , 0  
+, Vanini , 4 , 1 , 189.3 , 0 , 0 , 0  
+, Mariana Pimentel , 4 , 0 , 103.0 , 2 , 0 , 51.5  
+, Pinto Bandeira , 4 , 0 , 133.2 , 1 , 0 , 33.3  
+, Campo Novo , 4 , 0 , 89.2 , 0 , 0 , 0  
+, Vera Cruz , 4 , 0 , 14.9 , 0 , 0 , 0  
+, Colorado , 4 , 0 , 126.0 , 0 , 0 , 0  
+, Maximiliano de Almeida , 4 , 0 , 91.4 , 0 , 0 , 0  
+, Barracão , 4 , 1 , 75.8 , 0 , 0 , 0  
+, Palmares do Sul , 4 , 0 , 35.3 , 0 , 0 , 0  
+, Roque Gonzales , 4 , 1 , 58.4 , 0 , 0 , 0  
+, São Francisco de Assis , 4 , 0 , 21.8 , 1 , 0 , 5.5  
+, Alto Feliz , 4 , 0 , 132.1 , 0 , 0 , 0  
+, Vista Gaúcha , 3 , 0 , 105.2 , 0 , 0 , 0  
+, Candiota , 3 , 0 , 31.3 , 0 , 0 , 0  
+, Rosário do Sul , 3 , 0 , 7.6 , 0 , 0 , 0  
+, Santa Bárbara do Sul , 3 , 0 , 37.5 , 0 , 0 , 0  
+, Salvador do Sul , 3 , 0 , 38.5 , 0 , 0 , 0  
+, Dom Feliciano , 3 , 0 , 19.5 , 0 , 0 , 0  
+, Paim Filho , 3 , 0 , 78.4 , 0 , 0 , 0  
+, Vista Alegre do Prata , 3 , 0 , 192.2 , 0 , 0 , 0  
+, Mormaço , 3 , 0 , 97.2 , 0 , 0 , 0  
+, Mato Castelhano , 3 , 0 , 118.1 , 1 , 0 , 39.4  
+, São Valentim do Sul , 3 , 0 , 133.8 , 0 , 0 , 0  
+, Pouso Novo , 3 , 0 , 183.0 , 0 , 0 , 0  
+, São João da Urtiga , 3 , 0 , 64.4 , 0 , 0 , 0  
+, Cerro Largo , 3 , 0 , 21.2 , 0 , 0 , 0  
+, Bossoroca , 3 , 0 , 47.8 , 0 , 0 , 0  
+, Selbach , 3 , 0 , 58.8 , 0 , 0 , 0  
+, Esmeralda , 3 , 0 , 91.4 , 1 , 0 , 30.5  
+, Cambará do Sul , 3 , 0 , 46.6 , 0 , 0 , 0  
+, Hulha Negra , 3 , 0 , 44.3 , 1 , 0 , 14.8  
+, Dois Lajeados , 3 , 1 , 88.2 , 0 , 0 , 0  
+, Manoel Viana , 3 , 0 , 41.1 , 1 , 0 , 13.7  
+, Lajeado do Bugre , 3 , 0 , 117.0 , 0 , 0 , 0  
+, Cerro Grande do Sul , 2 , 0 , 16.3 , 1 , 0 , 8.2  
+, Paraíso do Sul , 2 , 0 , 26.3 , 0 , 0 , 0  
+, Ajuricaba , 2 , 0 , 28.5 , 0 , 0 , 0  
+, Santo Cristo , 2 , 0 , 14.0 , 0 , 0 , 0  
+, Pareci Novo , 2 , 0 , 52.1 , 0 , 0 , 0  
+, Nicolau Vergueiro , 2 , 0 , 118.9 , 0 , 0 , 0  
+, Ibiraiaras , 2 , 0 , 27.5 , 0 , 0 , 0  
+, Barros Cassal , 2 , 0 , 17.9 , 1 , 0 , 8.9  
+, Jaquirana , 2 , 0 , 53.8 , 0 , 0 , 0  
+, Novo Barreiro , 2 , 0 , 48.0 , 0 , 0 , 0  
+, Braga , 2 , 0 , 59.6 , 0 , 0 , 0  
+, Alecrim , 2 , 0 , 33.6 , 0 , 0 , 0  
+, Jaboticaba , 2 , 0 , 52.5 , 0 , 0 , 0  
+, Agudo , 2 , 0 , 12.1 , 0 , 0 , 0  
+, Boa Vista das Missões , 2 , 0 , 95.3 , 0 , 0 , 0  
+, Pinheiro Machado , 2 , 0 , 16.3 , 0 , 0 , 0  
+, Cacequi , 2 , 0 , 15.9 , 0 , 0 , 0  
+, Unistalda , 2 , 0 , 85.5 , 0 , 0 , 0  
+, Inhacorá , 2 , 0 , 89.8 , 0 , 0 , 0  
+, Santo Augusto , 2 , 1 , 14.4 , 1 , 0 , 7.2  
+, Centenário , 2 , 0 , 69.2 , 0 , 0 , 0  
+, Sagrada Família , 2 , 0 , 76.7 , 0 , 0 , 0  
+, Travesseiro , 2 , 0 , 85.6 , 0 , 0 , 0  
+, Capão do Cipó , 2 , 1 , 54.8 , 0 , 0 , 0  
+, Pinhal , 2 , 0 , 77.5 , 0 , 0 , 0  
+, Nova Roma do Sul , 2 , 1 , 54.2 , 0 , 0 , 0  
+, São José do Sul , 2 , 0 , 83.1 , 0 , 0 , 0  
+, Nova Candelária , 2 , 0 , 74.1 , 0 , 0 , 0  
+, Palmitinho , 2 , 0 , 28.3 , 0 , 0 , 0  
+, Rondinha , 2 , 0 , 39.0 , 0 , 0 , 0  
+, Tucunduva , 1 , 0 , 17.6 , 0 , 0 , 0  
+, Miraguaí , 1 , 0 , 20.3 , 0 , 0 , 0  
+, Derrubadas , 1 , 0 , 35.7 , 0 , 0 , 0  
+, São José das Missões , 1 , 0 , 39.4 , 0 , 0 , 0  
+, São Valério do Sul , 1 , 0 , 36.7 , 0 , 0 , 0  
+, Gramado Xavier , 1 , 0 , 23.1 , 0 , 0 , 0  
+, Porto Mauá , 1 , 0 , 42.1 , 0 , 0 , 0  
+, Áurea , 1 , 0 , 28.1 , 0 , 0 , 0  
+, São José do Ouro , 1 , 0 , 14.4 , 0 , 0 , 0  
+, Vitória das Missões , 1 , 0 , 31.9 , 0 , 0 , 0  
+, Dom Pedro de Alcântara , 1 , 0 , 39.5 , 0 , 0 , 0  
+, Capela de Santana , 1 , 0 , 8.4 , 0 , 0 , 0  
+, Monte Alegre dos Campos , 1 , 0 , 31.0 , 0 , 0 , 0  
+, Independência , 1 , 0 , 16.2 , 0 , 0 , 0  
+, Pantano Grande , 1 , 0 , 10.9 , 0 , 0 , 0  
+, Coronel Pilar , 1 , 0 , 61.4 , 0 , 0 , 0  
+, Vale Real , 1 , 0 , 16.9 , 0 , 0 , 0  
+, Quatro Irmãos , 1 , 0 , 54.1 , 0 , 0 , 0  
+, Jóia , 1 , 0 , 11.7 , 0 , 0 , 0  
+, São Vicente do Sul , 1 , 0 , 11.5 , 1 , 0 , 11.5  
+, Cândido Godói , 1 , 0 , 16.1 , 0 , 0 , 0  
+, Passo do Sobrado , 1 , 0 , 15.3 , 0 , 0 , 0  
+, Faxinal do Soturno , 1 , 0 , 15.0 , 0 , 0 , 0  
+, Jaguarão , 1 , 0 , 3.7 , 0 , 0 , 0  
+, São Paulo das Missões , 1 , 0 , 17.3 , 0 , 0 , 0  
+, Paulo Bento , 1 , 0 , 43.6 , 0 , 0 , 0  
+, Pinheirinho do Vale , 1 , 0 , 20.5 , 0 , 0 , 0  
+, Liberato Salzano , 1 , 0 , 19.2 , 0 , 0 , 0  
+, Guarani das Missões , 1 , 0 , 13.3 , 1 , 0 , 13.3  
+, Lindolfo Collor , 1 , 0 , 16.5 , 1 , 0 , 16.5  
+, Mostardas , 1 , 0 , 7.8 , 0 , 0 , 0  
+, Rodeio Bonito , 1 , 0 , 17.0 , 0 , 0 , 0  
+, Coronel Barros , 1 , 0 , 39.7 , 0 , 0 , 0  
+, Novo Machado , 1 , 0 , 30.1 , 0 , 0 , 0  
+, Barra Funda , 1 , 0 , 39.4 , 0 , 0 , 0  
+, São Pedro do Sul , 1 , 0 , 6.2 , 0 , 0 , 0  
+, Forquetinha , 1 , 0 , 41.5 , 0 , 0 , 0  
+, Ipê , 1 , 0 , 15.1 , 0 , 0 , 0  
+, Cristal do Sul , 1 , 0 , 35.1 , 0 , 0 , 0  
+, Quinze de Novembro , 1 , 0 , 26.3 , 0 , 0 , 0  
+, Caiçara , 1 , 0 , 21.1 , 0 , 0 , 0  
+, Guabiju , 1 , 1 , 66.5 , 0 , 0 , 0  
+, Nova Pádua , 1 , 0 , 39.2 , 0 , 0 , 0  
+, Engenho Velho , 1 , 0 , 96.7 , 0 , 0 , 0  
+, Tapes , 1 , 0 , 5.8 , 0 , 0 , 0  
+, Sertão Santana , 1 , 0 , 15.4 , 0 , 0 , 0  
+, Pedro Osório , 1 , 0 , 12.9 , 0 , 0 , 0  
+, Picada Café , 1 , 0 , 17.4 , 0 , 0 , 0  
