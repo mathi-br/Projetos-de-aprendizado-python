@@ -4,6 +4,9 @@ class ContaBancaria:
         self.nome = nome_titular
         self.saldo = saldo_inicial
 
+    def __repr__(self):
+        return f"Numero da conta: {self.n_conta}, Titular: {self.nome}, Saldo: {self.saldo}"
+
     def depositar(self, valor):
         try:
             if valor<0:
@@ -36,3 +39,4 @@ conta1.sacar(200)
 conta2.sacar(1000)
 conta1.ver_saldo()
 conta2.ver_saldo()
+print(conta1)
